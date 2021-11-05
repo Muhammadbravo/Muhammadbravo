@@ -88,21 +88,15 @@ I'm passionate about Data Science, Machine Learning and Artificial Intelligence.
 -->
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/muhammadbravo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadbravo&&hide=java,texshow_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=1&title_color=2EDDD5" alt="Muhammad's most used langs"/>
+<a href="https://github.com/muhammadbravo/muhammadbravo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbravo&theme=great-gatsby&hide=java,tex&show_icons=true&locale=en&bg_color=000000&hide_border=1&title_color=2EDDD5&langs_count=3" alt="Muhammad's most used langs />
 </a>
-
-<a href="https://github.com/muhammadbravo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbravo&show_icons=true&theme=great-gatsby&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1&hide=issues,stars" alt="Muhammad's github stats"/>
-</a>
-
-<a href="https://github.com/muhammadbravo">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadbravo&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Muhammad's github streaks"/>
+<a href="https://github.com/muhammadbravo/muhammadbravo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbravo&show_icons=true&count_private=true&theme=great-gatsby&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1&" alt="Muhammad's github stats" />
 </a>
 
 
-
-![Muhd's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbravo&theme=react-dark&hide_border=true&area=true)
+![Muhds GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=muhammadbravo&theme=react-dark&hide_border=true&area=true)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadbravo" alt="devded" /> </p>
 <div align="center">
