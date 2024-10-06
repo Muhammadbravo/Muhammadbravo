@@ -3,7 +3,7 @@
 </h1>
 
 
-I am Python Developer and as well a final year Computer Engineering student. 
+I am Python Developer and a graduate of Computer Engineering. 
 I'm passionate about Data Science, Machine Learning and Artificial Intelligence.
 
 
